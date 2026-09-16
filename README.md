@@ -18,7 +18,7 @@
 ## 📂 Estructura
 
 ```txt
-davidgoncor3005.github.io/
+david-gonzalez-portfolio/
 ├── public/
 │   ├── docs/
 │   ├── images/
