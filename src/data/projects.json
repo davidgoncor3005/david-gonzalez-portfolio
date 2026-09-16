@@ -58,7 +58,7 @@
       "en": "Screenshot of David González Córdoba's portfolio"
     },
     "logo": "images/project/portfolio-logo.webp",
-    "repository": "https://github.com/davidgoncor3005/davidgoncor3005.github.io",
+    "repository": "https://github.com/davidgoncor3005/david-gonzalez-portfolio",
     "preview": "https://davidgonzalezcordoba-dev.vercel.app/",
     "stack": [
       { "name": "Astro" },
