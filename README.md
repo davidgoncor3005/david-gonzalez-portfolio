@@ -14,16 +14,11 @@
 - **JavaScript**
 - **Simple Icons**
 - **Bootstrap Icons**
-- **GitHub Pages**
-- **GitHub Actions**
 
 ## 📂 Estructura
 
 ```txt
 davidgoncor3005.github.io/
-├── .github/
-│   └── workflows/
-│       └── deploy.yml
 ├── public/
 │   ├── docs/
 │   ├── images/
@@ -71,4 +66,3 @@ npm run preview
 - Modo claro / oscuro con `localStorage`.
 - SEO.
 - Accesibilidad.
-- Despliegue preparado con **GitHub Actions**.
